@@ -1,0 +1,58 @@
+{
+  "cases": [
+    {
+      "name": "John Doe",
+      "gender": "male",
+      "age": 35,
+      "address": "123 Main St",
+      "city": "Anytown",
+      "country": "USA",
+      "status": "Active",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "gender": "Female",
+      "age": 28,
+      "address": "456 Elm St",
+      "city": "Othertown",
+      "country": "USA",
+      "status": "Active",
+      "updated": "2022-02-01"
+    },
+    {
+      "name": "Bob Johnson",
+      "gender": "Male",
+      "age": 42,
+      "address": "789 Oak St",
+      "city": "Anycity",
+      "country": "Canada",
+      "status": "dead",
+      "updated": "2023-03-12",
+      "id": "3"
+    },
+    {
+      "name": "Alice Lee",
+      "gender": "male",
+      "age": 19,
+      "address": "234 Maple Ave",
+      "city": "Otherville",
+      "country": "Canada",
+      "status": "positive",
+      "updated": "2023-03-12",
+      "id": "4"
+    },
+    {
+      "name": "aaaaa",
+      "gender": "male",
+      "age": 17,
+      "address": "aaaa",
+      "city": "aaa",
+      "country": "aaaa",
+      "status": "positive",
+      "updated": "2023-03-12",
+      "id": "tPiHz6z"
+    }
+  ]
+}
